@@ -1,0 +1,8 @@
+Beyond a Gaussian Denoiser: Residual Learning of
+Deep CNN for Image Denoising: https://arxiv.org/pdf/1608.03981
+
+Deep Residual Learning for Image Recognition: https://arxiv.org/abs/1512.03385
+
+Peak Signal to Noise Ratio (PSNR): https://www.ni.com/en-in/innovations/white-papers/11/peak-signal-to-noise-ratio-as-an-image-quality-metric.html
+
+Structural Similarity Index (SSIM): https://medium.com/srm-mic/all-about-structural-similarity-index-ssim-theory-code-in-pytorch-6551b455541e
